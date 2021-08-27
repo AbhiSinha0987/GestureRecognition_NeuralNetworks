@@ -1,5 +1,5 @@
 # GestureRecognition_NeuralNetworks
-There are 5 Gestures which we want the Neural network to learn – 
+There are 5 Gestures which we want the Neural network to learn – <br>
 •	Thumbs up:  Increase the volume
 •	Thumbs down: Decrease the volume
 •	Left swipe: 'Jump' backwards 10 seconds
