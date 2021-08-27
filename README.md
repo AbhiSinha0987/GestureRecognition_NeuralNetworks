@@ -8,5 +8,5 @@ There are 5 Gestures which we want the Neural network to learn –
 
 As part of this experiment, we have trained 2 different model types – 
 •	Convolution 3D
-•	CNN(2D) + RNN
+•	CNN(2D) + RNN 
 
